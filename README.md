@@ -31,10 +31,11 @@ Tutorial for learning basic Python for Windows
 
 ## Saving changes
 
+* Make some changes to the code and save the file(s)
 * Create an account on [github.com](https://github.com/)
 * Configure git user (in terminal)
-  * `> git config --global user.name "Your Name"
-  * `> git config --global user.email "{email-you-used-for-github}"
+  * `> git config --global user.name "Your Name"`
+  * `> git config --global user.email "{email-you-used-for-github}"`
 * Browse to [https://github.com/limscoder/py-learn](https://github.com/limscoder/py-learn)
 * Click the `fork` button in the upper right hand corner to copy the repository to your personal account
 * Add your fork (in terminal)
