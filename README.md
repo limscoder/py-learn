@@ -26,6 +26,8 @@ Tutorial for learning basic Python for Windows
 * Open the `src/main.py` file and install Python extension when prompted
   * you may need to restart VSCode after installing the Python extension
 * Select the `run->run without debugging` option from the VSCode menu bar
+* You can also run the application from the terminal
+  * `> python .\src\main.py`
 
 ## Saving changes
 
